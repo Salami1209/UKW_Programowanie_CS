@@ -1,0 +1,15 @@
+F:\Studia\C#\Warunki\Rok Przestępny\bin\Debug\net6.0\Rok Przestępny.exe
+F:\Studia\C#\Warunki\Rok Przestępny\bin\Debug\net6.0\Rok Przestępny.deps.json
+F:\Studia\C#\Warunki\Rok Przestępny\bin\Debug\net6.0\Rok Przestępny.runtimeconfig.json
+F:\Studia\C#\Warunki\Rok Przestępny\bin\Debug\net6.0\Rok Przestępny.dll
+F:\Studia\C#\Warunki\Rok Przestępny\bin\Debug\net6.0\Rok Przestępny.pdb
+F:\Studia\C#\Warunki\Rok Przestępny\obj\Debug\net6.0\Rok Przestępny.csproj.AssemblyReference.cache
+F:\Studia\C#\Warunki\Rok Przestępny\obj\Debug\net6.0\Rok Przestępny.GeneratedMSBuildEditorConfig.editorconfig
+F:\Studia\C#\Warunki\Rok Przestępny\obj\Debug\net6.0\Rok Przestępny.AssemblyInfoInputs.cache
+F:\Studia\C#\Warunki\Rok Przestępny\obj\Debug\net6.0\Rok Przestępny.AssemblyInfo.cs
+F:\Studia\C#\Warunki\Rok Przestępny\obj\Debug\net6.0\Rok Przestępny.csproj.CoreCompileInputs.cache
+F:\Studia\C#\Warunki\Rok Przestępny\obj\Debug\net6.0\Rok Przestępny.dll
+F:\Studia\C#\Warunki\Rok Przestępny\obj\Debug\net6.0\refint\Rok Przestępny.dll
+F:\Studia\C#\Warunki\Rok Przestępny\obj\Debug\net6.0\Rok Przestępny.pdb
+F:\Studia\C#\Warunki\Rok Przestępny\obj\Debug\net6.0\Rok Przestępny.genruntimeconfig.cache
+F:\Studia\C#\Warunki\Rok Przestępny\obj\Debug\net6.0\ref\Rok Przestępny.dll

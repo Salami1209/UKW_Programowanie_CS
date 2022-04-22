@@ -1,0 +1,15 @@
+F:\Studia\C#\Warunki\NajwyższaLiczba\bin\Debug\net6.0\NajwyższaLiczba.exe
+F:\Studia\C#\Warunki\NajwyższaLiczba\bin\Debug\net6.0\NajwyższaLiczba.deps.json
+F:\Studia\C#\Warunki\NajwyższaLiczba\bin\Debug\net6.0\NajwyższaLiczba.runtimeconfig.json
+F:\Studia\C#\Warunki\NajwyższaLiczba\bin\Debug\net6.0\NajwyższaLiczba.dll
+F:\Studia\C#\Warunki\NajwyższaLiczba\bin\Debug\net6.0\NajwyższaLiczba.pdb
+F:\Studia\C#\Warunki\NajwyższaLiczba\obj\Debug\net6.0\NajwyższaLiczba.csproj.AssemblyReference.cache
+F:\Studia\C#\Warunki\NajwyższaLiczba\obj\Debug\net6.0\NajwyższaLiczba.GeneratedMSBuildEditorConfig.editorconfig
+F:\Studia\C#\Warunki\NajwyższaLiczba\obj\Debug\net6.0\NajwyższaLiczba.AssemblyInfoInputs.cache
+F:\Studia\C#\Warunki\NajwyższaLiczba\obj\Debug\net6.0\NajwyższaLiczba.AssemblyInfo.cs
+F:\Studia\C#\Warunki\NajwyższaLiczba\obj\Debug\net6.0\NajwyższaLiczba.csproj.CoreCompileInputs.cache
+F:\Studia\C#\Warunki\NajwyższaLiczba\obj\Debug\net6.0\NajwyższaLiczba.dll
+F:\Studia\C#\Warunki\NajwyższaLiczba\obj\Debug\net6.0\refint\NajwyższaLiczba.dll
+F:\Studia\C#\Warunki\NajwyższaLiczba\obj\Debug\net6.0\NajwyższaLiczba.pdb
+F:\Studia\C#\Warunki\NajwyższaLiczba\obj\Debug\net6.0\NajwyższaLiczba.genruntimeconfig.cache
+F:\Studia\C#\Warunki\NajwyższaLiczba\obj\Debug\net6.0\ref\NajwyższaLiczba.dll
